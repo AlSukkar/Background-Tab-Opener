@@ -73,10 +73,7 @@
         return url.includes('#');
     }
 
-    // Function to check if the link contains /edit/ in the URL
-    function isEditLink(url) {
-        return url.includes('/edit/');
-    }
+
 
     // Function to check if the link is an image URL
     function isImageURL(url) {
@@ -112,12 +109,6 @@
         // Ignore fragment-only links (e.g., links with #)
         if (isFragmentLink(url)) {
             console.log("Ignored fragment link:", anchor);
-            return;
-        }
-
-        // Ignore links containing /edit/
-        if (isEditLink(url)) {
-            console.log("Ignored edit link:", anchor);
             return;
         }
 
