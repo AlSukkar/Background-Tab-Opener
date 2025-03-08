@@ -2,6 +2,7 @@
 Opens links in a new background tab
 
 Used with ViolentMonkey or any other userscipt extensions.
+To install it copy the code from Open in Background Tab.js file to a new file in ViolentMonkey.
 
 Can be enabled with shift + z
 
