@@ -2,7 +2,7 @@
 // @name         Open in Background Tab
 // @namespace    http://example.com/
 // @version      2.0
-// @description  Opens real navigation links in a new background tab while ignoring UI elements, fragment links, and links with /edit/ in the URL.
+// @description  Opens links in a new background tab with shortcut keys to enable or disbale it.
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_openInTab
