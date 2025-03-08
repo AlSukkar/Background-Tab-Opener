@@ -2,8 +2,8 @@
 Opens links in a new background tab
 
 Used with ViolentMonkey or any other userscipt extensions.
-To install it copy the code from Open in Background Tab.js file to a new file in ViolentMonkey.
-Or press this <a href="https://cdn.jsdelivr.net/gh/AlSukkar/Background-Tab-Opener/blob/main/Open-in-Background-Tab.js">Install My Userscript</a>
+To install it press <a href="https://cdn.jsdelivr.net/gh/AlSukkar/Background-Tab-Opener@main/Open-in-Background-Tab.user.js
+">Install My Userscript</a>
 
 Can be enabled with shift + z
 
